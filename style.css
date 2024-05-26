@@ -128,7 +128,10 @@ body {
 .product-title {
   text-align: center;
   margin-top: 20px;
-  font-size: 30px;
+  font-size: 50px;
+  background: linear-gradient(45deg, #9276de, #e893cf);
+  background-clip: text;
+  color: transparent;
 }
 .first-product {
   padding: 10px;
